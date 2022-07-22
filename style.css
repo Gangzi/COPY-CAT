@@ -1,0 +1,102 @@
+.white-bar {
+    list-style-type: none;
+    text-align: center;
+    background-color: white;
+
+
+
+
+}
+
+li {
+    display: inline-block;
+}
+
+.create-your-free-site {
+    color: teal;
+}
+
+.black-bar {
+    list-style-type: none;
+    background-color: whitesmoke;
+    color: black;
+    padding-right: 400px;
+    text-align: right;
+
+}
+
+.nav2 {
+    color: white;
+}
+
+.real-estates {
+    text-align: left;
+    color: black;
+}
+
+img {
+    width: 100%;
+}
+
+.main {
+    background-color: rgb(22, 22, 22);
+    text-align: center;
+    width: 100%;
+    color: whitesmoke;
+}
+
+.main1-2 {
+    padding-left: 5em;
+    text-align: center;
+    display: flex;
+}
+
+.main1 {
+    background-color: rgb(22, 22, 22);
+    text-align: center;
+    width: 45%;
+}
+
+.main2 {
+    background-color: rgb(22, 22, 22);
+    text-align: center;
+    width: 45%;
+}
+
+.aside {
+    text-align: center;
+}
+
+.aside h1 {
+    font-family: bold;
+
+}
+
+.sign-up {
+    display: flex;
+    padding-left: 43%;
+
+}
+
+.button {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(22, 22, 22);
+    color: white;
+}
+
+
+@media (min-width: 1536px) {
+    .aside h1 {
+        font-size: 35px;
+    }
+
+    .sign-up {
+        font-size: 16px;
+    }
+}
